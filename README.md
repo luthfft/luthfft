@@ -10,9 +10,6 @@ nothing
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfft&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luthfft&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=luthfft&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
